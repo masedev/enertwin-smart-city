@@ -12,7 +12,7 @@ Key Features and Capabilities:
 
 - **Interoperability:** The framework facilitates seamless integration with existing digital twin platforms and IoT ecosystems. It supports standard ontology languages and formats, promoting interoperability and data exchange across different systems and applications.
 
-- **Validation and Consistency Checks: **GenTwin incorporates mechanisms for validating the generated ontologies, ensuring they meet the required standards and are free from inconsistencies. This ensures reliability and trustworthiness in the digital twin representations.
+- **Validation and Consistency Checks:** GenTwin incorporates mechanisms for validating the generated ontologies, ensuring they meet the required standards and are free from inconsistencies. This ensures reliability and trustworthiness in the digital twin representations.
 
 - **User-Friendly Interface:** The framework includes intuitive tools and interfaces that allow domain experts and engineers to visualize, customize, and manage the ontologies. This user-centric approach enhances usability and collaboration across multidisciplinary teams.
 
